@@ -1,0 +1,10 @@
+Pendleton Pierre 2
+Pendleton Pueblo 8
+Pierre Phoenix 3
+Pierre Pueblo 3
+Pueblo Phoenix 3
+Phoenix Pensacola 5
+Peoria Pittsburgh 5
+Pittsburgh Princeton 2
+Princeton Pensacola 5
+Peoria Pensacola 10
